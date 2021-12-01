@@ -10,6 +10,12 @@ redirect_from:
 
 Liangde Li is a M.S. student in Computer Science at University of California San Diego, working in [ADALab](https://adalabucsd.github.io/index.html), advised by [Prof. Arun Kumar](https://cseweb.ucsd.edu/~arunkk/). His main interest in in Machine Learning Systems(MLsys). He obtained B.Eng. in Mechatronic Engineering and B.S. in Computer Science with frst-class honours from the University of New South Wales in Sydney, Australia. During undergraduate study, he worked in rUNSWift robot soccor team to compete in RoboCup competition.
 
+Education
+======
+* B.Eng.(Hons) in Mechatronic Engineering, University of New South Wales, 2020
+* B.S. in Computer Science, University of New South Wales. 2020
+* M.S. in Computer Science, University of California San Diego, 2022 (expected)
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
