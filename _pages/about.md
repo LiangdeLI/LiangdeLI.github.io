@@ -18,19 +18,19 @@ Education
 
 Publication
 ======
-- Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration \
+- *Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration* \
 **Liangde Li**, Supun Nakandala, and Arun Kumar \
-[Paper](papers/Intermittent_Human-in-the-Loop_Model_Selection_using_Cerebro.pdf)  |  [Video](https://www.youtube.com/watch?v=K3THQy5McXc) \
+[Paper](papers/Intermittent_Human-in-the-Loop_Model_Selection_using_Cerebro.pdf)  |  [Video](https://www.youtube.com/watch?v=K3THQy5McXc) 
 
-- Video Summarization Guided by Local and Global Temporal Cues \
+- *Video Summarization Guided by Local and Global Temporal Cues* \
 Qinghao Ye, **Liangde Li**, Chuanqi Yan, Weiqing Cao, Garrison W. Cottrell \
-[Paper](papers/Video_Summarization_Guided_by_Local_and_Global_Temporal_Cues.pdf)  \
+[Paper](papers/Video_Summarization_Guided_by_Local_and_Global_Temporal_Cues.pdf)  
 
-- rUNSWift Team Report 2019 \
+- *rUNSWift Team Report 2019* \
 Jayen Ashar, Kenji Brameld, Ethan R. Jones, Tripta Kaur, **Liangde Li**, Wentao Lu, Maurice Pagnucco, Claude Sammut, Qingbin Sheh, Peter Schmidt, Thomas Wells, Addo Wondo, Kelvin Yang \
-[Paper](papers/rUNSWift_Team_Report_2019.pdf) \
+[Paper](papers/rUNSWift_Team_Report_2019.pdf) 
 
-- RoboCup SPL 2018 rUNSWift Team Paper \
+- *RoboCup SPL 2018 rUNSWift Team Paper* \
 Kenji Brameld, Fraser Hamersley, Ethan Jones, Tripta Kaur, **Liangde Li**, Wentao Lu, Maurice Pagnucco, Claude Sammut, Qingbin Sheh, Peter Schmidt, Timothy Wiley, Addo Wondo, Kelvin Yang \
 [Paper](papers/rUNSWift_Team_Report_2018.pdf)
 
