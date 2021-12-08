@@ -12,9 +12,15 @@ Liangde Li is a M.S. student in Computer Science at University of California San
 
 Education
 ======
-* B.Eng.(Hons) in Mechatronic Engineering, University of New South Wales, 2020
-* B.S. in Computer Science, University of New South Wales. 2020
+* B.Eng.(Hons) in Mechatronic Engineering, University of New South Wales, Sydney, Australia, 2020
+* B.S. in Computer Science, University of New South Wales, Sydney, Australia, 2020
 * M.S. in Computer Science, University of California San Diego, 2022 (expected)
+
+Publication
+======
+- Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration \
+Liangde Li, Supun Nakandala, and Arun Kumar \
+[Paper](papers/Intermittent_Human-in-the-Loop_Model_Selection_using_Cerebro.pdf) | [Video](https://www.youtube.com/watch?v=K3THQy5McXc)
 
 <!-- A data-driven personal website
 ======
