@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Bio"
+excerpt: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+[Curriculum Vitae](files/Curriculum_Vitae_of_Liangde_Li.pdf)
 
 Liangde Li is a M.S. student in Computer Science at University of California San Diego, working in [ADALab](https://adalabucsd.github.io/index.html), advised by [Prof. Arun Kumar](https://cseweb.ucsd.edu/~arunkk/). His main interest in in Machine Learning Systems(MLsys). He obtained B.Eng. in Mechatronic Engineering and B.S. in Computer Science with frst-class honours from the University of New South Wales in Sydney, Australia. During undergraduate study, he worked in rUNSWift robot soccor team to compete in RoboCup competition.
 
