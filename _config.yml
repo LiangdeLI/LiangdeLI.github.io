@@ -39,7 +39,8 @@ staticman:
   moderation             : true
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
-
+  transforms:
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -101,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/liangde-li-6a1726139/"
+  linkedin         : "liangde-li-6a1726139/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -114,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  email            : "lil009[at]ucsd[dot]edu"
 
 
 # Reading Files
